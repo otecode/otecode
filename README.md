@@ -1,5 +1,4 @@
-### Hello community! I'm Javi 👋
-A software developer from Madrid. 
+### Hello community! I'm Javi, software developer 👋 
 
 - 🤓 I studied application development in Java and SQL, and I'm currently learning new languages and technologies 🧠
 - 🌱 I’m currently learning new coding tools for Java, C# and Python
@@ -8,20 +7,22 @@ A software developer from Madrid.
 
 My LinkedIn profile:
 <div>
-  <img src="https://github.com/user-attachments/assets/d0710c00-ea13-4c51-874a-32c2cb2f5008" alt="" style="width:60px;">
+  <a href="https://www.linkedin.com/in/javieroterogonzalez/"><img src="https://github.com/user-attachments/assets/d0710c00-ea13-4c51-874a-32c2cb2f5008" alt="" style="width:50px; height:50px;"></a>
 </div>
 
 Current languages / tools:
-<div style="display: flex; align-items: baseline;">
-<img src="https://banner2.cleanpng.com/20180426/kbw/avexiclb6.webp" alt="" style="width:60px;">
-<img src="https://banner2.cleanpng.com/20180831/iua/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-1713945971245.webp" alt="" style="width:60px;">
-<img src="https://banner2.cleanpng.com/20190623/yp/kisspng-python-computer-icons-programming-language-executa-1713885634631.webp" alt="" style="width:60px;">
-<img src="https://banner2.cleanpng.com/20180411/wre/avf0mauoj.webp" alt="" style="width:40px;">
-<img src="https://banner2.cleanpng.com/20180617/iw/aa6thtcyg.webp" alt="" style="width:80px;">
-<img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-512.png" alt="" style="width:60px;">
-<img src="https://banner2.cleanpng.com/20180605/yjb/aa9yal4pp.webp" alt="" style="width:90px;">
-<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/html-icon.png" alt="" style="width:50px;">
-<img src="https://banner2.cleanpng.com/20180510/trw/kisspng-html-css-design-and-build-web-sites-web-develop-5af50c33d59ff9.681459051526008883875.jpg" alt="" style="width:90px;">
+<div style="display: flex; flex-direction: row; align-items: center;">
+  
+<img src="https://cdn.iconscout.com/icon/free/png-512/free-java-23-225999.png?f=webp&w=256" alt="" style="width:50px; height:50px;">
+<img src="https://i2.wp.com/www.ppsystems.se/wp-content/uploads/2017/03/C-logo.jpg?resize=271%2C300&ssl=1" alt="" style="width:50px; height:50px;">
+<img src="https://brandslogos.com/wp-content/uploads/images/python-logo.png" alt="" style="width:50px; height:50px;">
+<img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="" style="width:90px; height:70px;">
+<img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-512.png" alt="" style="width:50px; height:50px;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/900px-JavaScript-logo.png" alt="" style="width:50px; height:50px;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png" alt="" style="width:50px; height:50px;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/544px-CSS3_logo_and_wordmark.svg.png" alt="" style="width:35px; height:50px;">
+
+
 </div>
 
 
