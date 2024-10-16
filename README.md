@@ -12,7 +12,6 @@ My LinkedIn profile:
 
 Current languages / tools:
 <div style="display: flex; flex-direction: row; align-items: center;">
-  
 <img src="https://cdn.iconscout.com/icon/free/png-512/free-java-23-225999.png?f=webp&w=256" alt="" style="width:50px; height:50px;">
 <img src="https://i2.wp.com/www.ppsystems.se/wp-content/uploads/2017/03/C-logo.jpg?resize=271%2C300&ssl=1" alt="" style="width:50px; height:50px;">
 <img src="https://brandslogos.com/wp-content/uploads/images/python-logo.png" alt="" style="width:50px; height:50px;">
@@ -21,8 +20,6 @@ Current languages / tools:
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/900px-JavaScript-logo.png" alt="" style="width:50px; height:50px;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png" alt="" style="width:50px; height:50px;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/544px-CSS3_logo_and_wordmark.svg.png" alt="" style="width:35px; height:50px;">
-
-
 </div>
 
 
