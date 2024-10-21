@@ -1,7 +1,6 @@
 ### Hello community! I'm Javi, software developer 👋 
 
-- 🤓 I studied application development in Java and SQL, and I'm currently learning new languages and technologies 🧠
-- 🌱 I’m currently learning new coding tools for Java, C# and Python
+- 🤓 I studied application development in Java and SQL, and I'm currently learning new languages and technologies for Java, C# and Python 🌱🧠
 - 👯 I’m looking to collaborate on new projects that pose a challenge and stimulate learning
 - 📫 How to reach me: [javiotero93@gmail.com](mailto:javiotero93@gmail.com)
 
